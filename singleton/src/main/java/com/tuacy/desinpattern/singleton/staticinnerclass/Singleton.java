@@ -2,8 +2,9 @@ package com.tuacy.desinpattern.singleton.staticinnerclass;
 
 /**
  * 静态内部类单例
- * - 线程安全 yes
- * - 懒加载   yes
+ * - 线程安全        yes
+ * - 懒加载          yes
+ * - 避免反射攻击     no
  */
 public class Singleton {
 

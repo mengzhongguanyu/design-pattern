@@ -2,8 +2,9 @@ package com.tuacy.desinpattern.singleton.sluggard;
 
 /**
  * 懒汉式单例
- * - 线程不安全
- * - 懒加载
+ * - 线程安全        no
+ * - 懒加载          yes
+ * - 避免反射攻击     no
  */
 public class Singleton {
 
