@@ -1,2 +1,10 @@
 .idea
 design-pattern.iml
+
+/singleton/singleton.iml
+
+/proxy/proxy.iml
+
+/abstract-factory/abstract-factory.iml
+
+/factory-method/factory-method.iml
