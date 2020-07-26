@@ -13,6 +13,7 @@
         <module>proxy</module>
         <module>factory-method</module>
         <module>abstract-factory</module>
+        <module>adapter</module>
     </modules>
 
 
